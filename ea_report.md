@@ -1,4 +1,4 @@
-#background about SRR file
+#Background about SRR file
 Title of study: Estrogen responsive transcripptome of estrogen receptor 
 positive normal human breast cells in 3D cultures
 
